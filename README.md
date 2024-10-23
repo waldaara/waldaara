@@ -2,7 +2,7 @@
   <img height="150" src="https://avatars.githubusercontent.com/u/81494336?v=4"  />
 </div>
 
-###
+
 
 <div align="center">
   <a href="https://ec.linkedin.com/in/david-aragundy-283233244" target="_blank">
@@ -19,29 +19,29 @@
   </a>
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=waldaara.waldaara&"  />
 </div>
 
-###
+
 
 <h1 align="center">hey there 👋</h1>
 
-###
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+
 
 <p align="left">I'm David Aragundy from Ecuador<br><br>- 📚 I'm currently studying computer science<br>- ⚡ In my free time I make some code for davidaragundy/stories</p>
 
-###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
@@ -141,11 +141,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=waldaara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
