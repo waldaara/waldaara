@@ -135,6 +135,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+<p>I used almost the same stack for all my projects:</p>
+
+<ul>
+<li>HTML: For structuring web pages with content and elements.</li>
+<li>CSS: To style the visual appearance of web pages.</li>
+<li>TypeScript: Adds static typing to JavaScript, improving code quality and maintainability.</li>
+<li>React: A library for building interactive user interfaces efficiently.</li>
+<li>Next.js: A React framework for server-side rendering, routing, and static site generation.</li>
+<li>PostgreSQL: A powerful relational database for storing and querying data.</li>
+<li>GitHub: A platform for version control and collaboration using Git repositories.</li>
+<li>Git: A version control system to manage code changes and collaborate with others.</li>
+</ul>
+
 
 
 
@@ -228,7 +241,7 @@
 
 <div>
   <h4>David Aragundy</h4>
-  <p><a href='https://github.com/davidaragundy/davidaragundy'>David Aragundy</a> is my personal website (currenly working on it)</p>
+  <p><a href='https://github.com/davidaragundy/davidaragundy'>David Aragundy</a> is my personal website (currently working on it)</p>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
